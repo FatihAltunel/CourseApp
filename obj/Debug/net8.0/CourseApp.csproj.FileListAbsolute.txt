@@ -20,11 +20,10 @@ C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\Co
 C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CourseApp.props
 C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CourseApp.props
 C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\scopedcss\bundle\CourseApp.styles.css
-C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\scopedcss\projectbundle\CourseApp.bundle.scp.css
 C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\CourseApp.dll
 C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\refint\CourseApp.dll
 C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\CourseApp.pdb
 C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\CourseApp.genruntimeconfig.cache
 C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\ref\CourseApp.dll
+C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp\obj\Debug\net8.0\CourseApp.sourcelink.json

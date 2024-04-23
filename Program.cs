@@ -14,8 +14,10 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
 
+app.UseStaticFiles(); //wwwroot içerisindeki dosyalara erişmemizi sağlayan middleware
+                      //https://learn.microsoft.com/en-us/aspnet/core/fundamentals/static-files?view=aspnetcore-8.0
+                      
 app.UseRouting();
 
 app.UseAuthorization();

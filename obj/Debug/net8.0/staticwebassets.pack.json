@@ -1,16 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\fatih\\Documents\\ProgrammingApplications\\Web Applications\\ASP.NetCore\\CourseApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CourseApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CourseApp.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\fatih\\Documents\\ProgrammingApplications\\Web Applications\\ASP.NetCore\\CourseApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\fatih\\Documents\\ProgrammingApplications\\Web Applications\\ASP.NetCore\\CourseApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Documents\\ProgrammingApplications\\Web Applications\\ASP.NetCore\\CourseApp\\wwwroot\\img\\1.jpeg",
+      "PackagePath": "staticwebassets\\img\\1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Documents\\ProgrammingApplications\\Web Applications\\ASP.NetCore\\CourseApp\\wwwroot\\img\\2.png",
+      "PackagePath": "staticwebassets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Documents\\ProgrammingApplications\\Web Applications\\ASP.NetCore\\CourseApp\\wwwroot\\img\\3.png",
+      "PackagePath": "staticwebassets\\img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Documents\\ProgrammingApplications\\Web Applications\\ASP.NetCore\\CourseApp\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
     },
     {
       "Id": "C:\\Users\\fatih\\Documents\\ProgrammingApplications\\Web Applications\\ASP.NetCore\\CourseApp\\wwwroot\\js\\site.js",

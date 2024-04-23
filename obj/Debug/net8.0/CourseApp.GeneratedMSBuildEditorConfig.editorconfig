@@ -18,16 +18,44 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\fatih\Documents\ProgrammingApplications\Web Applications\ASP.NetCore\CourseApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Course/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Course/_Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXF9Db3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Shared/_ValidationScriptsPartial.cshtml]
@@ -41,7 +69,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/fatih/Documents/ProgrammingApplications/Web Applications/ASP.NetCore/CourseApp/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-s2004hirca
