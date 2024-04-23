@@ -7,16 +7,12 @@ public class CourseController : Controller{
     public IActionResult Index(){
         return View();
     }
-     public IActionResult Details(int id){
-
-        var courses = Repository.Courses;
-        foreach (var item in courses){
-            if(item.Id == id){
-                return View(item); 
-            }
+     public IActionResult Details(int? id){
+        if(id==null){
+            return Redirect("/Course/List");
         }
-        var e = "error";
-        return View(e);
+        var course = Repository.getById((int)id);
+        return View(course);
     }
      public IActionResult List(){
         
